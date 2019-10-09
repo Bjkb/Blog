@@ -22,3 +22,5 @@
 * [正则表达式总结](https://github.com/Bjkb/Blog/issues/2)
 
 * [小程序与Taro](https://github.com/Bjkb/Blog/issues/3)
+
+* [使用 lerna 管理项目中的业务组件](https://github.com/Bjkb/Blog/issues/4)
